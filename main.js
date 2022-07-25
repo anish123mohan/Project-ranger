@@ -1,6 +1,4 @@
-const { fabric } = require("./fabric");
-
-var canvas= new fabric.js.Canvas('MyCanvas')
+var canvas= new fabric.Canvas('MyCanvas')
 
 block_y=1;
  block_x=1;
